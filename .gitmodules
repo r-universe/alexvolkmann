@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MJMbamlss"]
+	path = MJMbamlss
+	url = https://github.com/alexvolkmann/mjmbamlss
 [submodule "multifamm"]
 	path = multifamm
 	url = https://github.com/alexvolkmann/multifamm
