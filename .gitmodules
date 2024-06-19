@@ -5,6 +5,9 @@
 [submodule "MJMbamlss"]
 	path = MJMbamlss
 	url = https://github.com/alexvolkmann/mjmbamlss
+[submodule "gmfamm"]
+	path = gmfamm
+	url = https://github.com/cran/gmfamm
 [submodule "multifamm"]
 	path = multifamm
 	url = https://github.com/alexvolkmann/multifamm
